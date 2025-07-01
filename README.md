@@ -47,10 +47,7 @@ O resultado é interpretado de acordo com a tabela oficial da Organização Mund
 ---
 
 ## 📦 Como Executar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+Clone este repositório:
 Abra o projeto em sua IDE de preferência (ex: IntelliJ, Eclipse)
 
 Compile e execute o arquivo principal
